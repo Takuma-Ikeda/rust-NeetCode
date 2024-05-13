@@ -5,4 +5,12 @@ edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
+[[bin]]
+name = "1"
+path = "src/bin/array_and_hashing/1.two-sum.rs"
+
+[[bin]]
+name = "217"
+path = "src/bin/array_and_hashing/217.contains-duplicate.rs"
+
 [dependencies]
