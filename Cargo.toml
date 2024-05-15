@@ -13,4 +13,8 @@ path = "src/bin/array_and_hashing/1.two-sum.rs"
 name = "217"
 path = "src/bin/array_and_hashing/217.contains-duplicate.rs"
 
+[[bin]]
+name = "242"
+path = "src/bin/array_and_hashing/242.valid-anagram.rs"
+
 [dependencies]
